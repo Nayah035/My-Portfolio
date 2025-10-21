@@ -16,26 +16,26 @@ const projects: Project[] = [
     stack: ["React", "Node.js", "MongoDB", "JWT", "RBAC"],
     description:
       "End-to-end secure billing with role-based access, audit logging, and encrypted data at rest.",
-    github: "https://github.com/yourusername/water-billing",
+    github: "https://github.com/Nayah035/water-billing",
   },
   {
     name: "POS System",
     stack: ["React", "Express", "MongoDB"],
     description:
       "Robust point-of-sale for SMEs with offline-first sync and secure user management.",
-    github: "https://github.com/yourusername/pos-system",
+    github: "https://github.com/Nayah035/pos-system",
   },
   {
     name: "Laundry Web App",
     stack: ["Next.js", "Tailwind", "MongoDB"],
     description: "Modern booking and order tracking interface with responsive UI.",
-    github: "https://github.com/yourusername/laundry-app",
+    github: "https://github.com/Nayah035/laundry-app",
   },
   {
     name: "Portfolio Website",
     stack: ["Next.js", "Tailwind", "Framer Motion"],
     description: "This portfolio site with dark mode and animations.",
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/Nayah035/My-Portfolio",
   },
   {
     name: "Hackathon Project 1",
