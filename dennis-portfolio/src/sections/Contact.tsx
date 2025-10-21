@@ -68,7 +68,7 @@ export function Contact() {
         <a href="https://github.com/Nayah035" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">GitHub</a>
         <a href="https://www.linkedin.com/in/dennis-muiruri-5ba74a259/" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">LinkedIn</a>
         <a href="https://x.com/Nayah_ke?t=K2QK7iNnyvju9fhD0CRq5g&s=09" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">Twitter</a>
-        <a href="muiridennis35@gmail.com" className="text-accent hover:underline">Email</a>
+        <a href="mailto:muiridennis35@gmail.com" className="text-accent hover:underline">Email</a>
       </div>
     </section>
   );
