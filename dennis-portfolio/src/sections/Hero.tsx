@@ -55,7 +55,7 @@ export function Hero() {
               View Projects
             </a>
             <a
-              href="file:///D:/My%20Portfolio%20Website/dennis-portfolio/public/Dennis-Muiruri-Mbugua%20Resume.pdf"
+              href="https://drive.google.com/file/d/1Fsh3MLmPnuhXOvcgUKeY6BvZggCRWX17/view?usp=sharing"
               className="px-5 py-2.5 rounded-md border border-accent/40 text-accent hover:bg-accent/10 transition-colors"
               download
             >
