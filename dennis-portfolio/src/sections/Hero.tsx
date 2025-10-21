@@ -82,7 +82,7 @@ export function Hero() {
             <div className="absolute inset-0 rounded-full border-2 border-[var(--accent)] shadow-lg shadow-[color-mix(in_oklab,theme(colors.accent)_/_30%,transparent)] group-hover:shadow-[color-mix(in_oklab,theme(colors.accent-2)_/_35%,transparent)] transition-shadow duration-300" />
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="/profile.jpg"
+              src="/dennis-profile-pic"
               alt="Profile photo"
               className="w-full h-full rounded-full object-cover transition-transform duration-300 group-hover:scale-105"
             />
