@@ -16,7 +16,7 @@ const projects: Project[] = [
     stack: ["React", "Node.js", "MongoDB", "JWT", "RBAC"],
     description:
       "End-to-end secure billing with role-based access, audit logging, and encrypted data at rest.",
-    github: "https://github.com/Nayah035/water-billing",
+    github: "https://github.com/Nayah035/Secure-Smart-Water-Billing-System-Management-Site",
   },
   {
     name: "POS System",
